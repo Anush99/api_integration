@@ -7,3 +7,4 @@ The project has two parts. In the first part we connect to api and get first 12 
 In the second part we get details about face detection of the given image and display it along with other information such as age, gender, etc., also getting coordinates of face and displaying image with green bounding box.
 
 Project is implemented in Google Colaboratory space.
+https://colab.research.google.com/drive/1xilBtNcqsoLLTq6YBW_XocBlZKEtKeet
